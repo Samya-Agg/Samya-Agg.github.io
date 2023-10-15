@@ -1,0 +1,63 @@
+header{
+    background-color: black;
+    padding: 6px;
+    text-align:center;
+    position:fixed;
+    width:100%;
+    z-index:1;
+    top:0;
+    left:0;
+    color:white;
+    font-size: 60px;
+    font-family: arial;
+}
+img{
+    z-index: 0;
+}
+body{
+    background: url("imagess/horror-pumpkins-halloween.jpg");
+    background-size: cover;
+}
+ul{
+    color: white;
+}
+nav{
+    background-color: none;
+    padding:20px;
+    margin-top: 6%;
+}
+nav li a:hover{
+    text-decoration: underline;
+    background-color: none;
+    padding:3px;
+}
+nav ul{
+    white-space: nowrap;
+    max-width:1200px;
+    margin:0 auto;
+}
+nav li{
+    width:33.33%;
+    display:inline-block;
+    font-size: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    font-size: 27px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+article{
+    font-size: 27px;
+    color:white;
+}
+button{
+    text-align: center;
+    font-size: 20px;
+}

@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+body{
+    background-image: url("/imagess/horror-pumpkins-halloween.jpg");
+    background-size: cover;
+}
+p{
+    color: white;
+    font-size: 24px;
+}
